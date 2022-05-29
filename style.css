@@ -1,0 +1,16 @@
+.buttons {
+    display: flex;
+    align-content: space-between;
+}
+button {
+    padding: 10px 20px;
+    background-color:#fff;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    cursor: pointer;
+    margin: auto;
+    flex-flow: row wrap;
+}
+button:hover {
+    background-color: beige;
+}
